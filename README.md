@@ -1,7 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,100:00bfff&height=200&section=header&text=Farangiz%20Orziyeva&fontSize=45&fontColor=ffffff&animation=twinkling" />
-</p>
 
 <h3 align="center">🚀 Python Backend Developer | FastAPI & Django | PostgreSQL Specialist</h3>
 
@@ -75,9 +71,9 @@
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="mailto:farangizorzu1@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:badbadlucks914@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/farangizorzu1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://t.me/farangiz_orz"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://t.me/Maqsad_orz"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>
 
 ---
