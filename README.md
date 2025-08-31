@@ -1,64 +1,90 @@
-<h1 align="center">👋 Hello, I'm Farangiz Orziyeva</h1>
-<h3 align="center">🚀 Python Backend Developer | FastAPI & Django Expert | PostgreSQL Specialist</h3>
-
----
-
-### 🌟 About Me  
-🔹 Backend development is my greatest passion.  
-🔹 I build **efficient, secure, and scalable APIs**.  
-🔹 I leverage the full power of **PostgreSQL** in every project.  
-🔹 My goal is to **create backend systems that deliver real business value for startups and companies**.  
-
----
-
-### 🛠 Tech Stack
-
-**Languages & Frameworks:**  
-🐍 Python | ⚡ FastAPI | 🏗 Django | 🌐 Flask  
-
-**Databases & Tools:**  
-🛢 PostgreSQL (Advanced) | MySQL | SQLite | SQLAlchemy | Alembic  
-
-**Other Tools:**  
-☁️ Docker | 🐙 Git & GitHub | 🖥 Linux | 🔑 JWT & OAuth2  
-
----
-
-### 📌 Featured Projects  
-
-🍕 **[Pizza Delivery API](https://github.com/farangizorzu1/pizza_delivery_api)**  
-REST API for managing pizza orders — built with **FastAPI + JWT + PostgreSQL**  
-
-🔐 **[Auth System with JWT](https://github.com/farangizorzu1/Fastapi)**  
-User authentication & authorization using **FastAPI + JWT Tokens**  
-
-📊 **[PostgreSQL Queries Playground](#)**  
-A collection of optimized **PostgreSQL queries** for real-world applications  
-
----
-
-### 🚀 My Goals  
-✅ Build scalable and production-ready APIs  
-✅ Strengthen expertise in **system design & microservices**  
-✅ Contribute open-source projects to the developer community  
-✅ Become a **Senior Backend Engineer**  
-
----
-
-### 📈 GitHub Stats  
+<!-- Banner -->
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=farangizorzu1&theme=tokyonight" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api?username=farangizorzu1&show_icons=true&theme=tokyonight" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farangizorzu1&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,100:00bfff&height=200&section=header&text=Farangiz%20Orziyeva&fontSize=45&fontColor=ffffff&animation=twinkling" />
+</p>
+
+<h3 align="center">🚀 Python Backend Developer | FastAPI & Django | PostgreSQL Specialist</h3>
+
+---
+
+## 👩‍💻 About Me  
+
+💡 Passionate about **building scalable, efficient, and secure backend systems**  
+⚡ Skilled in designing **REST APIs & database-driven applications**  
+🛢 Strong expertise in **PostgreSQL**: advanced queries, indexing, and optimization  
+🎯 Goal-oriented developer aiming to become a **world-class Senior Backend Engineer**  
+
+---
+
+## 🛠 Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,postgresql,mysql,sqlite,docker,git,linux,github" /><br/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/API-REST%20%26%20GraphQL-blue?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Security-JWT%20%26%20OAuth2-red?style=for-the-badge&logo=security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deployment-Docker%20%7C%20Linux-green?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ---
 
-### 🌐 Connect With Me  
-📩 **Email**: farangizorzu1@example.com  
-💼 **LinkedIn**: [linkedin.com/in/farangizorzu1](#)  
-💬 **Telegram**: [@farangiz_orz](https://t.me/Maqsad_orz)  
+## 🚀 Featured Projects  
+
+🍕 **[Pizza Delivery API](https://github.com/farangizorzu1/pizza_delivery_api)**  
+🔹 🍽 Full-featured **Food Delivery Backend**  
+🔹 ⚡ Built with **FastAPI + JWT + PostgreSQL**  
+🔹 🔑 Includes role-based authentication  
+
+🔐 **[JWT Auth System](https://github.com/farangizorzu1/Fastapi)**  
+🔹 🔐 Secure user registration & login  
+🔹 🔄 JWT authentication with refresh tokens  
+🔹 🛡 Password hashing & protected endpoints  
+
+📊 **PostgreSQL Queries Playground (coming soon)**  
+🔹 📈 Optimized queries for real-world use cases  
+🔹 🚀 Focused on performance & scalability  
+🔹 📘 Practical examples for developers  
 
 ---
 
-<p align="center">⭐ “Clean Code, Powerful Backends, Real-World Impact.” ⭐</p>
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=farangizorzu1&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farangizorzu1&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farangizorzu1&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=farangizorzu1&theme=tokyonight&no-frame=true&margin-w=5&row=1" height="170"/>
+</p>
+
+---
+
+## 🎯 My Goals  
+
+✔ 🏗 Master **system design & microservices architecture**  
+✔ ⚡ Build **high-performance, production-ready APIs**  
+✔ 🌍 Contribute to **open-source communities**  
+✔ 🏆 Achieve the level of **Senior Backend Engineer**  
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="mailto:farangizorzu1@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/farangizorzu1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://t.me/farangiz_orz"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"></a>
+</p>
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,100:8a2be2&height=120&section=footer"/>
+</p>
+
+<p align="center">⭐ "Clean Code, Scalable Systems, Real-World Impact." ⭐</p>
