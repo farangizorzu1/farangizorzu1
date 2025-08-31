@@ -15,7 +15,7 @@
 ## 🛠 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,postgresql,mysql,sqlite,docker,git,linux,github" /><br/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgresql,mysql,sqlite,docker,git,ubuntu,github" /><br/>
 </p>
 
 <p align="center">
